@@ -1,0 +1,20 @@
+{
+  "name": "tvsapi",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "tvs",
+    "api"
+  ],
+  "author": "Jamesgt",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
