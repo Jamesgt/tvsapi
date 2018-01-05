@@ -1,2 +1,2 @@
-exports.TvsApi = require('./TvsApi.js')
-exports.Tvs = require('./Tvs.js')
+exports.TvsApi = require('./TvsApi.js').TvsApi
+exports.Tvs = require('./Tvs.js').Tvs
